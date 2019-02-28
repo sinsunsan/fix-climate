@@ -9,6 +9,6 @@
   * [Data source](solutions/data-source.md)
   * [Energy](solutions/energy.md)
   * [Agriculture](solutions/agriculture/README.md)
-    * [Agricultures technics to promote](solutions/agriculture/agricultures-technics-to-promote.md)
+    * [Agricultures technics](solutions/agriculture/agricultures-technics-to-promote.md)
   * [Bio-diversity](solutions/bio-diversity.md)
 
