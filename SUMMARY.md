@@ -3,6 +3,7 @@
 * [Global warming open data](README.md)
 * [Problems](problems/README.md)
   * [Who pollutes](problems/who-pollutes.md)
+  * [Plastic](problems/plastic.md)
   * [Naturals retroaction effects](problems/retroaction-effects.md)
   * [Air pollution](problems/air-pollution.md)
 * [Solutions](solutions/README.md)
