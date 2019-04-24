@@ -6,3 +6,11 @@ description: >-
 
 # Global warming open data
 
+
+
+
+
+* In french : Analysis of GES emission per type of activity  [http://www.bilans-ges.ademe.fr](http://www.bilans-ges.ademe.fr/documentatio)
+
+
+
