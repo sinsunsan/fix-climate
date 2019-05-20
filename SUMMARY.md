@@ -17,4 +17,8 @@
   * [Agriculture](solutions/agriculture/README.md)
     * [Agricultures technics](solutions/agriculture/agricultures-technics-to-promote.md)
   * [Bio-diversity](solutions/bio-diversity.md)
+* [Links and ressources](links-and-ressources/README.md)
+  * [Links](links-and-ressources/links.md)
+  * [Videos](links-and-ressources/videos.md)
+  * [Apps](links-and-ressources/apps.md)
 
