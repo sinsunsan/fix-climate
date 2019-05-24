@@ -22,6 +22,7 @@
     * [Agricultures technics](solutions/agriculture/agricultures-technics-to-promote.md)
   * [Bio-diversity](solutions/bio-diversity.md)
 * [Links and ressources](links-and-ressources/README.md)
+  * [Link \[fr\]](links-and-ressources/link-fr.md)
   * [Links](links-and-ressources/links.md)
   * [Videos](links-and-ressources/videos.md)
   * [Apps](links-and-ressources/apps.md)
