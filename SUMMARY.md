@@ -15,7 +15,6 @@
 * [Solutions](solutions/README.md)
   * [Building efficiency](solutions/building-efficiency.md)
   * [Economic](solutions/economic.md)
-  * [Economy](solutions/economy.md)
   * [Juridic](solutions/juridic.md)
   * [Energy](solutions/energy/README.md)
     * [Photovoltaïc](solutions/energy/photovoltaic.md)
