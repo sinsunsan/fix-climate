@@ -17,6 +17,7 @@
   * [Economy](solutions/economy.md)
   * [Juridic](solutions/juridic.md)
   * [Energy](solutions/energy/README.md)
+    * [Photovoltaïc](solutions/energy/photovoltaic.md)
     * [Electricity decarbonisation](solutions/energy/electricity-decarbonisation.md)
   * [Agriculture](solutions/agriculture/README.md)
     * [Agricultures technics](solutions/agriculture/agricultures-technics-to-promote.md)
