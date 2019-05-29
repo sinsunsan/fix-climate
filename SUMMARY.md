@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Open climate project](README.md)
 * [Data](data/README.md)
   * [Data visualisation](data/data-visualisation.md)
   * [Global warming open data](data/global-warming-open-data.md)
@@ -13,7 +13,12 @@
   * [Air pollution](problems/air-pollution.md)
   * [Sea rise](problems/sea-rise.md)
 * [Solutions](solutions/README.md)
-  * [Building efficiency](solutions/building-efficiency.md)
+  * [Building efficiency](solutions/building-efficiency/README.md)
+    * [Reusal of old design principal](solutions/building-efficiency/reusal-of-old-design-principal.md)
+    * [Autonomous energy sources](solutions/building-efficiency/autonomous-energy-sources.md)
+    * [Smart buildings](solutions/building-efficiency/smart-buildings.md)
+    * [Insulations](solutions/building-efficiency/insulations.md)
+    * [Bio sourced or upcycled materials](solutions/building-efficiency/bio-sourced-or-upcycled-materials.md)
   * [Economic](solutions/economic.md)
   * [Juridic](solutions/juridic.md)
   * [Energy](solutions/energy/README.md)
