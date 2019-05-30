@@ -30,7 +30,6 @@
     * [Circular economy](solutions/economic/circular-economy.md)
   * [Juridic](solutions/juridic.md)
   * [Energy](solutions/energy/README.md)
-    * [Photovoltaïc](solutions/energy/photovoltaic.md)
     * [Solar electricity](solutions/energy/solar-electricity.md)
     * [Electricity decarbonisation](solutions/energy/electricity-decarbonisation.md)
   * [Agriculture & Forest](solutions/agriculture/README.md)
