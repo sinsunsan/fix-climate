@@ -1,9 +1,6 @@
 # Table of contents
 
 * [Open climate wiki](README.md)
-* [Data](data/README.md)
-  * [Data visualisation](data/data-visualisation.md)
-  * [Global warming open data](data/global-warming-open-data.md)
 * [Who pollutes](who-pollutes.md)
 * [Green House Gaz Emission](green-house-gaz-emission/README.md)
   * [Industry](green-house-gaz-emission/industry.md)
@@ -38,6 +35,9 @@
     * [Planting trees](solutions/agriculture/forest.md)
     * [Change agriculture technics](solutions/agriculture/agricultures-technics-to-promote.md)
   * [Bio-diversity](solutions/bio-diversity.md)
+* [Data](data/README.md)
+  * [Data visualisation](data/data-visualisation.md)
+  * [Global warming open data](data/global-warming-open-data.md)
 * [Links and ressources](links-and-ressources/README.md)
   * [Link \[fr\]](links-and-ressources/link-fr.md)
   * [Links](links-and-ressources/links.md)
