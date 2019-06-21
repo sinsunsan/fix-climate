@@ -6,3 +6,9 @@
 * **Shift project** [https://theshiftproject.org/en/home/](https://theshiftproject.org/en/home/) Carbon transition think tank
 * **Without the hair** [https://www.withouthotair.com](https://www.withouthotair.com) Online book by David Mac Kay to explore different climate change solution explaining the metrics behind the problems
 
+
+
+### Catalogs of links 
+
+* **Awesome climate change resources** [https://github.com/flamato/awesome-climate-change-ressources](https://github.com/flamato/awesome-climate-change-ressources)
+
