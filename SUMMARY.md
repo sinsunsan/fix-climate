@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Open climate wiki](README.md)
+* [Fix climate wiki](README.md)
 * [Who pollutes](who-pollutes.md)
 * [Green House Gaz Emission](green-house-gaz-emission/README.md)
   * [Industry](green-house-gaz-emission/industry.md)
