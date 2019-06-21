@@ -32,6 +32,7 @@
     * [Carbon tax](solutions/economic/carbon-tax.md)
     * [Circular economy](solutions/economic/circular-economy.md)
   * [Juridic](solutions/juridic.md)
+  * [Psychology / Sociology](solutions/psycology-sociology.md)
   * [Energy](solutions/energy/README.md)
     * [Renewable energies](solutions/energy/renewable-energies/README.md)
       * [Wind](solutions/energy/renewable-energies/wind.md)
