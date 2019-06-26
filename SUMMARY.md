@@ -34,6 +34,7 @@
   * [Juridic](solutions/juridic.md)
   * [Psychology / Sociology](solutions/psycology-sociology.md)
   * [Energy](solutions/energy/README.md)
+    * [Battery and smart grids](solutions/energy/battery-and-smart-grids.md)
     * [Renewable energies](solutions/energy/renewable-energies/README.md)
       * [Wind](solutions/energy/renewable-energies/wind.md)
       * [Solar electricity](solutions/energy/renewable-energies/solar-electricity.md)
