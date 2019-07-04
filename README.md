@@ -1,6 +1,6 @@
 # Fix climate wiki
 
-Catalog of problems the global warming is producing and solutions contributed by the community of anyone interested to help.
+Catalogue of problems the global warming is producing and solutions contributed by the community of anyone interested to help.
 
 Many solutions exist that we must use now to give us a chance to reverse global warming in time and change the way our economy and society are growing. 
 

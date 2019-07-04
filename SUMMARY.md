@@ -49,8 +49,7 @@
   * [Data visualisation](data/data-visualisation.md)
   * [Global warming open data](data/global-warming-open-data.md)
 * [Links and ressources](links-and-ressources/README.md)
-  * [Link \[fr\]](links-and-ressources/link-fr.md)
-  * [Links](links-and-ressources/links.md)
+  * [Climate changes Links](links-and-ressources/links.md)
   * [Videos](links-and-ressources/videos.md)
   * [Apps](links-and-ressources/apps.md)
 
