@@ -2,7 +2,7 @@
 
 [Fix climate](https://www.fixclimate.co) is a collaborative and open source wiki to collect problems the global warming is producing and solutions contributed by the community of anyone interested to help.
 
-Many solutions exist that we must use now to give us a chance to reverse global warming in time and change the way our economy and society are growing. 
+Many solutions exist that we must use now to give us a chance to reverse global warming in time and change the way our economy and society are growing.
 
 We can all contribute to the knowledge of what needs to be done right now one project at a time.
 
