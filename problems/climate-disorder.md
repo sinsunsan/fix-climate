@@ -1,2 +1,2 @@
-# Climate disorder
+# Climate disorders
 

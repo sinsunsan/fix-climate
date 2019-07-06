@@ -8,5 +8,5 @@ description: Things can get worser due to retroaction loops
 * **Permafrost melting :** Permafrost contain a lot of methane which is a much more powerful Greenhouse Gaz \(GHG\) and have the potential to equal amount of CO2 already in atmosphere.
 * **Albedo change** : Ice melting change earth [Albedo](https://en.wikipedia.org/wiki/Albedo) \(reflection coefficient of sun light\) so more heath will be absorbed by ocean \(blue have a less reflective coefficient than ice\)
 * **Forest and trees decrease** : many trees will not withstand the temperature augmentation and will die, deforestation on the other way is year after year reducing the surface occupied by forest. And forest in a carbon well! So Carbon not absorbed by forest will remain in thee atmosphere
-* Methane contained in artice ice
+* **Methane** contained in Artic ice releasing
 
