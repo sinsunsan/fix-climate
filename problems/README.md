@@ -1,2 +1,2 @@
-# Climate change consequences
+# Climate change Consequences
 
