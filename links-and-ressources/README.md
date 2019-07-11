@@ -1,2 +1,2 @@
-# Links and ressources
+# Ressources
 
