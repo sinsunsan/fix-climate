@@ -1,6 +1,6 @@
 # Ecosystemic / Biocapacity
 
-### Global [f](https://www.footprintnetwork.org/)oot print map and bio-capacity concept
+### Global foot print map and bio-capacity concept
 
 [https://www.footprintnetwork.org](https://www.footprintnetwork.org/)
 
