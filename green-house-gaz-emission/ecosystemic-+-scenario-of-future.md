@@ -1,4 +1,4 @@
-# Ecosystemic
+# Ecosystemic / Biocapacity
 
 [http://data.footprintnetwork.org/\#/](http://data.footprintnetwork.org/#/) Map of bio-capacity overuse per country
 
