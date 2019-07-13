@@ -1,2 +1,2 @@
-# Thermic renovation of old buildings
+# Thermal renovation of Buildings
 

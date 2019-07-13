@@ -30,7 +30,7 @@
     * [Reuse old design principles](solutions/building-efficiency/reusal-of-old-design-principal.md)
     * [Autonomous energy sources](solutions/building-efficiency/autonomous-energy-sources.md)
     * [Smart buildings](solutions/building-efficiency/smart-buildings.md)
-    * [Thermic renovation of old buildings](solutions/building-efficiency/insulations.md)
+    * [Thermal renovation of Buildings](solutions/building-efficiency/insulations.md)
     * [Materials](solutions/building-efficiency/bio-sourced-or-upcycled-materials.md)
   * [Economic](solutions/economic/README.md)
     * [Carbon tax](solutions/economic/carbon-tax.md)
