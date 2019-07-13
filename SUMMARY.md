@@ -42,7 +42,7 @@
     * [Battery and smart grids](solutions/energy/battery-and-smart-grids.md)
     * [Renewable energies](solutions/energy/renewable-energies/README.md)
       * [Wind](solutions/energy/renewable-energies/wind.md)
-      * [Solar electricity](solutions/energy/renewable-energies/solar-electricity.md)
+      * [Solar energy](solutions/energy/renewable-energies/solar-electricity.md)
       * [Biomass](solutions/energy/renewable-energies/biomass.md)
       * [Hydraulic](solutions/energy/renewable-energies/hydraulic.md)
     * [Electricity decarbonisation](solutions/energy/electricity-decarbonisation.md)
