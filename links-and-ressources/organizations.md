@@ -8,4 +8,5 @@
 * **Shift project** [https://theshiftproject.org/en/home](https://theshiftproject.org/en/home/) Carbon transition think tank
 * **Footprint network** [https://www.footprintnetwork.org](https://www.footprintnetwork.org/) Bio capacity concept think tank
 * **Solar Impulse** [https://solarimpulse.com](https://solarimpulse.com/efficient-solutions-search) Solar plane projects + solutions
+* **Zero Waste** [https://www.zerowastefrance.org](https://www.zerowastefrance.org/en/)
 
