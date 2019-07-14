@@ -50,6 +50,8 @@
     * [Planting trees](solutions/agriculture/forest.md)
     * [Change agriculture technics](solutions/agriculture/agricultures-technics-to-promote.md)
   * [Bio-diversity](solutions/bio-diversity.md)
+* [Climate Change adaptation](climate-change-mitigation/README.md)
+  * [Low-tech](climate-change-mitigation/low-tech.md)
 * [Ressources](links-and-ressources/README.md)
   * [Organizations](links-and-ressources/organizations.md)
   * [Data visualisation](links-and-ressources/data-visualisation.md)
