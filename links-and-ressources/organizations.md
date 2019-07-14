@@ -6,5 +6,6 @@
 * **Global optimism** [http://globaloptimism.com](http://globaloptimism.com/)
 * **Climate action** [http://www.climateaction.org](http://www.climateaction.org/)
 * **Shift project** [https://theshiftproject.org/en/home](https://theshiftproject.org/en/home/) Carbon transition think tank
-* **Footprint network** [https://www.footprintnetwork.org](https://www.footprintnetwork.org/) Biocapacity concept think tank
+* **Footprint network** [https://www.footprintnetwork.org](https://www.footprintnetwork.org/) Bio capacity concept think tank
+* **Solar Impulse** [https://solarimpulse.com](https://solarimpulse.com/efficient-solutions-search) Solar plane projects + solutions
 
