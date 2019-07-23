@@ -23,7 +23,9 @@
 * Planting 1.2 trillions trees could cancel out a decade of CO2 emissions [https://e360.yale.edu/digest/planting-1-2-trillion-trees-could-cancel-out-a-decade-of-co2-emissions-scientists-find](https://e360.yale.edu/digest/planting-1-2-trillion-trees-could-cancel-out-a-decade-of-co2-emissions-scientists-find)
 * Est-ce que planter des arbres permet toujours de capturer du CO2 ?[https://usbeketrica.com/article/planter-milliards-arbres-suffira-t-il-a-absorber-emissions-co2](https://usbeketrica.com/article/planter-milliards-arbres-suffira-t-il-a-absorber-emissions-co2)
 
+### Organizations / Projects that helps plant trees
 
-
+* **Ecosia** [**https://info.ecosia.org/**](https://info.ecosia.org/) ****plant trees while you are surfing on the web 
+* Trillion tree campaign [https://www.trilliontreecampaign.org](https://www.trilliontreecampaign.org) map and data about trees planted by many organizations
 * **Trees for the future** [https://trees.org](https://trees.org) Organization that helps people plant trees or donate to offset your carbon footprint by planting trees  
 
