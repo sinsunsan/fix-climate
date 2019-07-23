@@ -54,6 +54,7 @@
 * [Climate Change adaptation](climate-change-mitigation/README.md)
   * [Low-tech](climate-change-mitigation/low-tech.md)
 * [Ressources](links-and-ressources/README.md)
+  * [Magazines / Press](links-and-ressources/magazines-press.md)
   * [Organizations](links-and-ressources/organizations.md)
   * [Data visualisation](links-and-ressources/data-visualisation.md)
   * [Open data](links-and-ressources/global-warming-open-data.md)
