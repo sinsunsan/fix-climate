@@ -21,6 +21,7 @@
 ### How to calculate benefits of planting trees?
 
 * Planting 1.2 trillions trees could cancel out a decade of CO2 emissions [https://e360.yale.edu/digest/planting-1-2-trillion-trees-could-cancel-out-a-decade-of-co2-emissions-scientists-find](https://e360.yale.edu/digest/planting-1-2-trillion-trees-could-cancel-out-a-decade-of-co2-emissions-scientists-find)
+* Est-ce que planter des arbres permet toujours de capturer du CO2 ?[https://usbeketrica.com/article/planter-milliards-arbres-suffira-t-il-a-absorber-emissions-co2](https://usbeketrica.com/article/planter-milliards-arbres-suffira-t-il-a-absorber-emissions-co2)
 
 
 
