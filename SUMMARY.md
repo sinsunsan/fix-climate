@@ -33,6 +33,7 @@
     * [Thermal renovation of Buildings](solutions/building-efficiency/insulations.md)
     * [Materials](solutions/building-efficiency/bio-sourced-or-upcycled-materials.md)
   * [Economic](solutions/economic/README.md)
+    * [Funding](solutions/economic/funding.md)
     * [Carbon tax](solutions/economic/carbon-tax.md)
     * [Circular economy](solutions/economic/circular-economy.md)
   * [Juridic](solutions/juridic.md)
