@@ -1,2 +1,2 @@
-# Carbon tax
+# Carbon Tax
 

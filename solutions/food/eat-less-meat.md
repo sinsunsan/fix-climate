@@ -1,4 +1,4 @@
-# Eat less meat
+# Eat Less Meat
 
 ### Flexitarian diet
 

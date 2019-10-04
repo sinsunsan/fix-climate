@@ -1,2 +1,2 @@
-# Earth eco-system
+# Earth Eco-system
 

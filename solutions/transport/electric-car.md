@@ -1,4 +1,4 @@
-# Electric car
+# Electric Cars
 
 ### Benefits of electric cars for CO2 emission and air pollution
 

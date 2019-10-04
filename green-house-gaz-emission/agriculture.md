@@ -1,6 +1,6 @@
 # Agriculture
 
-* [https://climatenexus.org/climate-issues/food/animal-agricultures-impact-on-climate-change/](https://climatenexus.org/climate-issues/food/animal-agricultures-impact-on-climate-change/)
+* [Animal Agriculture's Impact on Climate Change](https://climatenexus.org/climate-issues/food/animal-agricultures-impact-on-climate-change/)
 
 
 

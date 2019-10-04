@@ -1,2 +1,2 @@
-# Circular economy
+# Circular Economy
 

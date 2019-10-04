@@ -1,4 +1,4 @@
-# Water cycle
+# Water Cycle
 
-[https://www.college-de-france.fr/site/edouard-bard/symposium-2019-06-21-09h00.htm](https://www.college-de-france.fr/site/edouard-bard/symposium-2019-06-21-09h00.htm)
+[Perspective paléoclimatique sur l'importance du cycle de l'eau ](https://www.college-de-france.fr/site/edouard-bard/symposium-2019-06-21-09h00.htm)
 
