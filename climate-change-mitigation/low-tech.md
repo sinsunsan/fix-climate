@@ -1,4 +1,4 @@
-# Low-tech
+# Low-Tech
 
-[https://lowtechlab.org/wiki/Accueil](https://lowtechlab.org/wiki/Accueil)
+[Low Tech Lab ](https://lowtechlab.org/wiki/Accueil)
 

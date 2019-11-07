@@ -1,8 +1,8 @@
 ---
-description: Source of open data on global warming and environment
+description: Source of open data on global warming and the environment
 ---
 
-# Open data
+# Open Data
 
 
 

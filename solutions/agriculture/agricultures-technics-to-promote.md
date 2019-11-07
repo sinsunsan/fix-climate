@@ -1,4 +1,4 @@
-# Change agriculture technics
+# Change Agriculture Techniques
 
 * Agroecology [https://en.wikipedia.org/wiki/Agroecology](https://en.wikipedia.org/wiki/Agroecology)
 * Agroforestry [https://en.wikipedia.org/wiki/Agroforestry](https://en.wikipedia.org/wiki/Agroforestry)

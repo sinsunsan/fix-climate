@@ -16,3 +16,7 @@
 
 * **IPCC** [https://www.ipcc.ch/](https://www.ipcc.ch/) United nation branch for climate change
 
+### Activist / Association 
+
+* **Extension rebellion** [https://rebellion.earth](https://rebellion.earth)
+* **Affaire du siècle** : Argumentaire concernant l'inaction de l'état Français en matière de lutte contre le changement climatique [https://laffairedusiecle.net/argumentaire-memoire-complementaire/](https://laffairedusiecle.net/argumentaire-memoire-complementaire/)

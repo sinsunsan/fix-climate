@@ -1,4 +1,4 @@
-# Climate change Solutions
+# Climate Change Solutions
 
 ## Catalog of solutions :
 

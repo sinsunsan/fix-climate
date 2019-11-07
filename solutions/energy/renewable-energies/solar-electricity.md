@@ -1,4 +1,4 @@
-# Solar energy
+# Solar Energy
 
 
 

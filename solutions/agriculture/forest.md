@@ -1,4 +1,4 @@
-# Planting trees
+# Planting Trees
 
 ### **Which trees to plant?** 
 
@@ -7,7 +7,6 @@
 * cities 
 * waste lands 
 * ...
-
 
 
 * Treepedia an explorer of tree density in major cities [http://senseable.mit.edu/treepedia](http://senseable.mit.edu/treepedia/cities/s%C3%A3o%20paulo)

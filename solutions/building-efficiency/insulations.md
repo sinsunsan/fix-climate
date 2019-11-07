@@ -1,2 +1,2 @@
-# Thermal renovation of Buildings
+# Thermal Renovation of Buildings
 

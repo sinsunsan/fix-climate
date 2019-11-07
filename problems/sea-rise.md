@@ -1,2 +1,2 @@
-# Sea rise
+# Sea Rise
 
