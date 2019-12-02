@@ -11,6 +11,8 @@
 * **Footprint network** [https://www.footprintnetwork.org](https://www.footprintnetwork.org/) Bio capacity concept think tank
 * **Solar Impulse** [https://solarimpulse.com](https://solarimpulse.com/efficient-solutions-search) Solar plane projects + solutions
 * **Zero Waste** [https://www.zerowastefrance.org](https://www.zerowastefrance.org/en/)
+* **We are still in** [https://www.wearestillin.com](https://www.wearestillin.com/)
+* **Architecture 2030** [https://architecture2030.org](https://architecture2030.org/)  Promote practical ways to reaching 0 carbon in construction
 
 ### Organizations
 
