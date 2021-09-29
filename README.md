@@ -14,3 +14,5 @@ Please share about the initiative to make our actions more impactful.
 
 ![Fields of Windmills in Scotland](.gitbook/assets/photo-1548253786-b8ee1fa4cbd9.jpeg)
 
+Contribute to fixclimate.co 
+
