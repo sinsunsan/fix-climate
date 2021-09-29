@@ -20,6 +20,7 @@
   * [Air pollution](problems/air-pollution.md)
   * [Sea rise](problems/sea-rise.md)
   * [Naturals retroaction effects](problems/retroaction-effects.md)
+  * [Long term climate consequences](problems/long-term-climate-consequences.md)
 * [Climate change Solutions](solutions/README.md)
   * [Transport](solutions/transport/README.md)
     * [Electric car](solutions/transport/electric-car.md)
